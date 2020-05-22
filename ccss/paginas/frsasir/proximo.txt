@@ -1,0 +1,11 @@
+ddns-update-style none;
+option domain-name "frsasir.net";
+option domain-name-servers 192.168.1.1;
+default-lease-time 600;
+max-lease-time ;
+one-lease-per-client on;
+server-identifier ;
+option subnet-mask ;
+option routers ;
+log-facility local7;
+#}
